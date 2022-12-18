@@ -1,0 +1,16 @@
+
+.call div{
+  max-width: 30%;
+  border-right: 1px solid gray;
+  font-size: 20px;
+  padding: 10px;
+  display: inline;
+}
+.call div a{
+  text-decoration: none;
+  color: black;
+}
+.call div:hover{
+  background-color: aqua;
+  font-size: 25px;
+}

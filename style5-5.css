@@ -1,0 +1,16 @@
+.artycl{
+  
+  max-width:100%;
+  height: 500px;
+  overflow: auto;
+  background-image: url(./img-5/HTML5.png);
+  background-repeat: no-repeat;
+  background-size: 250px 250px;
+  background-position: right top;
+}
+.cont{
+  border: 1px solid black;
+  padding: 20px;
+  margin: 10px;
+  width: 80%;
+}

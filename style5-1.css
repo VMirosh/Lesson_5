@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+.block{
+  list-style: none;
+}
+.block li{
+  border:1px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 2px;
+}
+.block li:nth-child(even){
+    background-color: gray;
+}

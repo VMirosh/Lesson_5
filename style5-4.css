@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+.logo{
+  max-width: 200px;
+  height: 200px;
+  border: 1px solid orangered;
+  border-radius: 100px;
+  margin: 200px auto;
+
+  background-image: url(./img-4/logo.svg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
